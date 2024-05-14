@@ -11,7 +11,7 @@ git config --global user.name "ik3nnot"
 git add .
 
 # Commit changes
-git commit -m "TEST EDIT"
+git commit -m "DAY 1 EDIT"
 
 # Add remote repository
 git remote add origin https://github.com/ik3nnot/ssh.git
